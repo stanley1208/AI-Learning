@@ -1,3 +1,4 @@
 # AI-Learning
 My step-by-step AI Engineer learning journey
 Day 2 complete — practiced conditionals and logic flow.
+Day 3 – learned how to loop through data and compute summaries.
