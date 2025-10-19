@@ -6,3 +6,5 @@ Day 4 – learned strings & dictionaries, useful for labeling data and configs i
 Day 5 – learned NumPy arrays and matrix operations; first step toward GPU computing.
 Day 6 – Vector recap practice
 Day 7 – Linear regression in NumPy; implemented best-fit line and error computation.
+Day 8 – Implemented gradient descent from scratch; tuned learning rate; loss decreased successfully.
+
