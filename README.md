@@ -8,4 +8,5 @@ Day 6 – Vector recap practice
 Day 7 – Linear regression in NumPy; implemented best-fit line and error computation.
 Day 8 – Implemented gradient descent from scratch; tuned learning rate; loss decreased successfully.
 Day 9 – Vectorized Gradient Descent & LR Exploration
-Add Day 11 – First NN in PyTorch
+Day 11 – First NN in PyTorch
+Day 12 - Build the models(Logistic Regression and Two Layer Net)
