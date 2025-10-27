@@ -10,3 +10,4 @@ Day 8 – Implemented gradient descent from scratch; tuned learning rate; loss d
 Day 9 – Vectorized Gradient Descent & LR Exploration
 Day 11 – First NN in PyTorch
 Day 12 - Build the models(Logistic Regression and Two Layer Net)
+Week3 Deep Learning Foundations
