@@ -11,3 +11,5 @@ Day 9 – Vectorized Gradient Descent & LR Exploration
 Day 11 – First NN in PyTorch
 Day 12 - Build the models(Logistic Regression and Two Layer Net)
 Week3 Deep Learning Foundations
+Day 13 - familiar with the equations that are used in Deep Learning
+Day 14 - build a TinyCNN model
